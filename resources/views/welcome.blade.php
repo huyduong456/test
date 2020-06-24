@@ -73,7 +73,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Huy Dương4567
+                    Huy Dương
                 </div>
 
                 <div class="links">
